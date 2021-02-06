@@ -14,5 +14,5 @@ Place this file into your ```.atom``` fodler in your user's home directory (repl
 
 ## Packages I am using in this stylesheet
 * [MagicPython](https://atom.io/packages/magicpython)
-* Scripts
+* [Scripts](https://atom.io/packages/script)
 

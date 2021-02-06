@@ -1,9 +1,13 @@
 # Atom-Stylesheet
 
-## Getting Started
+# Getting Started
 
-# Clone the Repo
+## Clone the Repo
 
 ```
 https://github.com/AMER12-max/Atom-Stylesheet/
 ```
+
+## Windows
+
+Place this file into your ```.atom``` fodler in your user's home directory (replace this with your current atom stylesheet)

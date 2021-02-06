@@ -4,9 +4,9 @@
 
 ## Clone the Repo
 
-```
+``
 https://github.com/AMER12-max/Atom-Stylesheet/
-```
+``
 
 ## Windows
 

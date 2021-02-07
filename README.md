@@ -1,4 +1,4 @@
-# Atom-Stylesheet
+# Atom-Stylesheet :atom: :electron:
 
 # Getting Started
 
@@ -13,6 +13,6 @@ git clone https://github.com/AMER12-max/Atom-Stylesheet/
 Place this file into your ```.atom``` fodler in your user's home directory (replace this with your current atom stylesheet)
 
 ## Packages I am using in this stylesheet
-* [MagicPython](https://atom.io/packages/magicpython) :smiley:
+* [MagicPython](https://atom.io/packages/magicpython) 
 * [Scripts](https://atom.io/packages/script)
 

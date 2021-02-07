@@ -1,20 +1,7 @@
-.#{$css-prefix}-text { 
-     [class*=emojione-], .emojioneemoji { 
-         font-size: inherit; 
-         height: 2ex; 
-         width: 2.1ex; 
-         min-height: 20px; 
-         min-width: 20px; 
-         display: inline-block; 
-         margin: -.2ex .15em .2ex; 
-         line-height: normal; 
-         vertical-align: middle; 
-         max-width: 100%; 
-         top: 0; 
-     } 
- } 
-
 # Atom-Stylesheet :atom: :muscle: 
+.emoji {
+  height: 1.2em;
+}
 
 # Getting Started :electron:
 

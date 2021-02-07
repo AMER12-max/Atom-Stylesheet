@@ -2,13 +2,13 @@
 
 # Getting Started :atom_symbol: 
 
-## Clone the Repo
+## Clone the Repo :zap:
 
 ````
 git clone https://github.com/AMER12-max/Atom-Stylesheet/
 ````
 
-## Windows
+## Windows :comet:
 
 Place this file into your ```.atom``` fodler in your user's home directory (replace this with your current atom stylesheet)
 

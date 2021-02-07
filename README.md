@@ -1,4 +1,4 @@
-# Atom-Stylesheet :atom: :atom-symbol:
+# Atom-Stylesheet :atom: :atom_symbol:
 
 # Getting Started :electron:
 

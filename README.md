@@ -1,7 +1,4 @@
-# Atom-Stylesheet :atom: :muscle: 
-.emoji {
-  height: 1.2em;
-}
+# Atom-Stylesheet :atom: :atom-symbol:
 
 # Getting Started :electron:
 

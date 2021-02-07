@@ -1,6 +1,6 @@
-# Atom-Stylesheet :atom: :electron:
+# Atom-Stylesheet :atom: :muscle: 
 
-# Getting Started
+# Getting Started :electron:
 
 ## Clone the Repo
 
